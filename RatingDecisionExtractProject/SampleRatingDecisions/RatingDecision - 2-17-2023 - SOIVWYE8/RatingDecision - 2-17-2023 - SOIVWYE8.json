@@ -1,0 +1,153 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "SOIVWYE8",
+        "HEADER_DATE": "02/15/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "09/19/2002",
+                    "RAD_Date": "09/18/2004",
+                    "Branch_Service": "Army",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "9411",
+                    "Description": "POST-TRAUMATIC STRESS DISORDER WITH ALCOHOL USE DISORDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "50",
+                            "date": "06/30/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5237",
+                    "Description": "LUMBOSACRAL STRAIN",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "06/30/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/14/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5215",
+                    "Description": "RIGHT WRIST STRAIN (MAJOR)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5215",
+                    "Description": "LEFT WRIST STRAIN (MINOR)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8516",
+                    "Description": "CUBITAL TUNNEL SYNDROME, LEFT UPPER (MINOR)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8516",
+                    "Description": "CUBITAL TUNNEL SYNDROME, RIGHT UPPER (MAJOR) ASSOCIATED WITH NECK CONDITION",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5213",
+                    "Description": "RIGHT ELBOW CONDITION",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5213",
+                    "Description": "LEFT ELBOW CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5237",
+                    "Description": "NECK CONDITION"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL HEARING LOSS"
+                },
+                {
+                    "Code": "8520",
+                    "Description": "RIGHT LEG RADICULOPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8520",
+                    "Description": "LEFT LEG RADICULOPATHY",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8865-6511",
+                    "Description": "SINUSITIS"
+                },
+                {
+                    "Code": "8865-6522",
+                    "Description": "RHINITIS"
+                },
+                {
+                    "Code": "8873-7319",
+                    "Description": "IBS"
+                },
+                {
+                    "Code": "8881-8100",
+                    "Description": "TENSION HEADACHES"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "left leg radiculopathy"
+            },
+            {
+                "DecisionName": "right leg radiculopathy"
+            }
+        ]
+    }
+}

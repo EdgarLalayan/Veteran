@@ -1,0 +1,219 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "7KWGRH7B",
+        "HEADER_DATE": "05/02/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "03/06/1974",
+                    "RAD_Date": "04/15/1974",
+                    "Branch_Service": "Army",
+                    "Discharge_Type": "Honorable"
+                },
+                {
+                    "EOD_Date": "04/26/1974",
+                    "RAD_Date": "02/07/1976",
+                    "Branch_Service": "Navy",
+                    "Discharge_Type": "Honorable"
+                },
+                {
+                    "EOD_Date": "09/10/1976",
+                    "RAD_Date": "08/23/1977",
+                    "Branch_Service": "Navy",
+                    "Discharge_Type": "Under Honorable Conditions"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "5237",
+                    "Description": "LUMBOSACRAL STRAIN",
+                    "PercentageDate": [
+                        {
+                            "percent": "40",
+                            "date": "11/29/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5237",
+                    "Description": "CERVICAL STRAIN",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "11/29/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "8100",
+                    "Description": "HEADACHES",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "11/29/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5206",
+                    "Description": "LEFT FOREARM LIMITED FLEXION",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "11/29/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5213",
+                    "Description": "LEFT FOREARM LIMITED ROTATION",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "11/29/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "11/29/2022"
+                        }
+                    ]
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "6204",
+                    "Description": "VERTIGO"
+                },
+                {
+                    "Code": "7913",
+                    "Description": "IRRITABLE BOWEL SYNDROME"
+                },
+                {
+                    "Code": "8599-8510",
+                    "Description": "LEFT ARM RADICULOPATHY",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8599-8510",
+                    "Description": "RIGHT ARM RADICULOPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8599-8520",
+                    "Description": "RIGHT LEG RADICULOPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8599-8520",
+                    "Description": "LEFT LEG RADICULOPATHY",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "9411",
+                    "Description": "POSTTRAUMATIC STRESS DISORDER"
+                },
+                {
+                    "Code": "9440",
+                    "Description": "ADJUSTMENT DISORDER WITH ANXIETY"
+                }
+            ]
+        },
+        "Deferred Issues": [
+            {
+                "Code": "5206",
+                "Description": "RIGHT ELBOW, SECONDARY TO LEFT ELBOW",
+                "Left_or_Right_KW": "RIGHT"
+            },
+            {
+                "Code": "5271",
+                "Description": "RIGHT ANKLE CONDITION",
+                "Left_or_Right_KW": "RIGHT"
+            },
+            {
+                "Code": "5271",
+                "Description": "LEFT ANKLE CONDITION",
+                "Left_or_Right_KW": "LEFT"
+            },
+            {
+                "Code": "6512",
+                "Description": "SINUSITIS"
+            }
+        ],
+        "Decision": [
+            {
+                "DecisionName": "lumbosacral strain",
+                "DecisionEvalution": "40",
+                "EffDate": "November 29, 2022"
+            },
+            {
+                "DecisionName": "cervical strain",
+                "DecisionEvalution": "30",
+                "EffDate": "November 29, 2022"
+            },
+            {
+                "DecisionName": "headaches",
+                "DecisionEvalution": "30",
+                "EffDate": "November 29, 2022"
+            },
+            {
+                "DecisionName": "left forearm limited flexion",
+                "DecisionEvalution": "20",
+                "EffDate": "November 29, 2022"
+            },
+            {
+                "DecisionName": "left forearm limited rotation ",
+                "DecisionEvalution": "20",
+                "EffDate": "November 29, 2022"
+            },
+            {
+                "DecisionName": "tinnitus",
+                "DecisionEvalution": "10",
+                "EffDate": "November 29, 2022"
+            },
+            {
+                "DecisionName": "irritable bowel syndrome"
+            },
+            {
+                "DecisionName": "left arm radiculopathy"
+            },
+            {
+                "DecisionName": "left leg radiculopathy"
+            },
+            {
+                "DecisionName": "right arm radiculopathy"
+            },
+            {
+                "DecisionName": "right leg radiculopathy"
+            },
+            {
+                "DecisionName": "vertigo"
+            },
+            {
+                "DecisionName": "left ankle condition"
+            },
+            {
+                "DecisionName": "right ankle condition"
+            },
+            {
+                "DecisionName": "right elbow, secondary to left elbow"
+            },
+            {
+                "DecisionName": "sinusitis"
+            }
+        ]
+    }
+}

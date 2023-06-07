@@ -1,0 +1,194 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "N41YE3UE",
+        "HEADER_DATE": "01/17/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "11/17/1997",
+                    "RAD_Date": "12/02/2006",
+                    "Branch_Service": "Marine Corps",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "9413",
+                    "Description": "OTHER SPECIFIED TRAUMA AND STRESSOR RELATED DISORDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "03/17/2014"
+                        },
+                        {
+                            "percent": "30",
+                            "date": "01/05/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5237",
+                    "Description": "LUMBOSACRAL STRAIN (PREVIOUSLY RATED AS LOW BACK STRAIN)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/03/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/03/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7804",
+                    "Description": "RIGHT SHOULDER CYST REMOVAL RESIDUALS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/03/2006"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "6522",
+                    "Description": "ALLERGIC RHINITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "08/10/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7802",
+                    "Description": "STATUS POST RIGHT THUMB LACERATION WITH RESIDUALS",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "01/05/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5237",
+                    "Description": "NECK CONDITION SECONDARY BACK CONDITION"
+                },
+                {
+                    "Code": "5260",
+                    "Description": "LEFT SHOULDER CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5260",
+                    "Description": "RIGHT KNEE CONDITION",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5260-5261",
+                    "Description": "LEFT KNEE INJURY RESIDUALS",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL HEARING LOSS"
+                },
+                {
+                    "Code": "6201",
+                    "Description": "RESIDUALS OF EAR INFECTION"
+                },
+                {
+                    "Code": "6599-6511",
+                    "Description": "SINUSITIS"
+                },
+                {
+                    "Code": "7820",
+                    "Description": "LEFT LEG INSECT BITE RESIDUALS",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8100",
+                    "Description": "HEADACHES"
+                },
+                {
+                    "Code": "8520",
+                    "Description": "RIGHT LEG RADICULOPATHY SECONDARY TO BACK",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8520",
+                    "Description": "LEFT LEG RADICULOPATHY SECONDARY TO BACK",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8850-5025",
+                    "Description": "FIBROMYALGIA"
+                },
+                {
+                    "Code": "8866-6602",
+                    "Description": "UPPER RESPIRATORY CONDITION/TROUBLE BREATHING"
+                },
+                {
+                    "Code": "8885-8515",
+                    "Description": "PERIPHERAL NEUROPATHY, RIGHT HAND AND ARM",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "9411",
+                    "Description": "POST TRAUMATIC STRESS DISORDER"
+                },
+                {
+                    "Code": "9499-9435",
+                    "Description": "SLEEP DISORDER"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "allergic rhinitis",
+                "DecisionEvalution": "10",
+                "EffDate": "August 10, 2022"
+            },
+            {
+                "DecisionName": "lumbosacral strain ",
+                "DecisionEvalution": "10"
+            },
+            {
+                "DecisionName": "right shoulder cyst removal residuals,",
+                "DecisionEvalution": "10"
+            },
+            {
+                "DecisionName": "left leg radiculopathy secondary to back"
+            },
+            {
+                "DecisionName": "neck condition secondary back condition"
+            },
+            {
+                "DecisionName": "right leg radiculopathy secondary to back"
+            },
+            {
+                "DecisionName": "left shoulder condition"
+            },
+            {
+                "DecisionName": "right knee condition"
+            }
+        ]
+    }
+}

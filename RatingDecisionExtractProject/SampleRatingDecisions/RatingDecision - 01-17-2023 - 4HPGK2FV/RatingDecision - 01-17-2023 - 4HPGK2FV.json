@@ -1,0 +1,111 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "4HPGK2FV",
+        "HEADER_DATE": "01/12/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "11/26/1990",
+                    "RAD_Date": "03/25/1995",
+                    "Branch_Service": "Marine Corps",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "5024-5260",
+                    "Description": "PATELLOFEMORAL PAIN SYNDROME WITH TENDINOPATHY AND OSGOOD SLATTER'S SYNDROME, RIGHT KNEE",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5024-5260",
+                    "Description": "PATELLOFEMORAL PAIN SYNDROME WITH TENDINOPATHY AND OSGOOD SLATTER'S SYNDROME, LEFT KNEE",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/30/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6513",
+                    "Description": "SINUSITIS [Environmental Hazard in Gulf War/Other Unidentified]",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "08/10/2022"
+                        }
+                    ]
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "6100",
+                    "Description": "HEARING LOSS"
+                }
+            ]
+        },
+        "Deferred Issues": [
+            {
+                "Code": "7319",
+                "Description": "IRRITABLE BOWEL SYNDROME"
+            },
+            {
+                "Code": "9434",
+                "Description": "DEPRESSION"
+            }
+        ],
+        "Decision": [
+            {
+                "DecisionName": "patellofemoral pain syndrome with tendinopathy and Osgood Slatter's syndrome, right knee",
+                "DecisionEvalution": "10",
+                "EffDate": "June 30, 2022"
+            },
+            {
+                "DecisionName": "patellofemoral pain syndrome with tendinopathy and Osgood Slatter's syndrome, left knee",
+                "DecisionEvalution": "10",
+                "EffDate": "June 30, 2022"
+            },
+            {
+                "DecisionName": "tinnitus",
+                "DecisionEvalution": "10",
+                "EffDate": "June 30, 2022"
+            },
+            {
+                "DecisionName": "sinusitis",
+                "DecisionEvalution": "0",
+                "EffDate": "August 10,   2022"
+            },
+            {},
+            {
+                "DecisionName": "depression"
+            },
+            {
+                "DecisionName": "irritable bowel syndrome"
+            }
+        ]
+    }
+}

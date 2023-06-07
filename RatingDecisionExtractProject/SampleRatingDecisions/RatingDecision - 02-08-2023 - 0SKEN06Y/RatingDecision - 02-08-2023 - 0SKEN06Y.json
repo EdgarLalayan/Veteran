@@ -1,0 +1,265 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "0SKEN06Y",
+        "HEADER_DATE": "02/07/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "09/07/1979",
+                    "RAD_Date": "01/31/2006",
+                    "Branch_Service": "Navy",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "6847",
+                    "Description": "OBSTRUCTIVE SLEEP APNEA",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "02/01/2006"
+                        },
+                        {
+                            "percent": "50",
+                            "date": "09/12/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "8511",
+                    "Description": "LEFT ARM RADICULOPATHY",
+                    "PercentageDate": [
+                        {
+                            "percent": "40",
+                            "date": "12/13/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5241",
+                    "Description": "STATUS POST CERVICAL FUSION WITH INTERVERTEBRAL DISC SYNDROME",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "02/01/2006"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "12/13/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5242",
+                    "Description": "DEGENERATIVE DISC DISEASE, LUMBAR SPINE, AND S/P L5-S1 PARTIAL HEMILAMINECTOMY, DISCECTOMY AND FUSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "02/01/2006"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "12/13/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "8520",
+                    "Description": "LEFT LEG RADICULOPATHY WITH SENSORY DEFICIT",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "02/01/2006"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "12/13/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "02/01/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5260",
+                    "Description": "RIGHT KNEE STRAIN",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/13/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5260",
+                    "Description": "LEFT KNEE STRAIN",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/13/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5299-5227",
+                    "Description": "STATUS POST RIGHT 5TH FINGER FRACTURE",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "02/01/2006"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "7399-7346",
+                    "Description": "MILD GASTROESOPHAGEAL REFLUX DISEASE",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "02/01/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7802",
+                    "Description": "SURGICAL SCARS (POSTERIOR TRUNK)",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "02/01/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7806",
+                    "Description": "ECZEMA, BILATERAL HANDS",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "02/01/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7800",
+                    "Description": "SURGICAL SCARS (NECK)",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/13/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7802",
+                    "Description": "SURGICAL SCARS (RIGHT HIP)",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/13/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8865-6522",
+                    "Description": "NON ALLERGIC RHINITIS [Gulf War Presumptive 3.320/Particulate Matter] [Environmental Hazard in Gulf War/Undiagnosed Illness]",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/13/2021"
+                        }
+                    ]
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5201",
+                    "Description": "LEFT SHOULDER CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL HEARING LOSS"
+                },
+                {
+                    "Code": "6204",
+                    "Description": "VERTIGO"
+                },
+                {
+                    "Code": "7319",
+                    "Description": "IRRITABLE BOWEL SYNDROME"
+                },
+                {
+                    "Code": "8045",
+                    "Description": "TRAUMATIC BRAIN INJURY (TBI)"
+                },
+                {
+                    "Code": "8511",
+                    "Description": "RIGHT ARM RADICULOPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8520",
+                    "Description": "RIGHT LEG RADICULOPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8865-6513",
+                    "Description": "SINUSITIS"
+                },
+                {
+                    "Code": "9434",
+                    "Description": "ACQUIRED PSYCHIATRIC CONDITION (TO INCLUDE DEPRESSION)"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "left knee strain,",
+                "DecisionEvalution": "10"
+            },
+            {
+                "DecisionName": "right knee strain",
+                "DecisionEvalution": "10",
+                "EffDate": "December 13, 2021"
+            },
+            {
+                "DecisionName": "non allergic rhinitis,",
+                "DecisionEvalution": "0"
+            },
+            {
+                "DecisionName": "sinusitis"
+            },
+            {
+                "DecisionName": "traumatic brain injury "
+            },
+            {
+                "DecisionName": "vertigo"
+            },
+            {
+                "DecisionName": "acquired psychiatric condition "
+            }
+        ]
+    }
+}

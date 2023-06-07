@@ -1,0 +1,166 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "MLIETL9E",
+        "HEADER_DATE": "08/26/2022",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "11/17/1997",
+                    "RAD_Date": "12/02/2006",
+                    "Branch_Service": "Marine Corps",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "9413",
+                    "Description": "OTHER SPECIFIED TRAUMA AND STRESSOR RELATED DISORDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "03/17/2014"
+                        },
+                        {
+                            "percent": "30",
+                            "date": "01/05/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5299-5237",
+                    "Description": "LOW BACK STRAIN",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/03/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/03/2006"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7804",
+                    "Description": "RIGHT SHOULDER CYST REMOVAL RESIDUALS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/03/2006"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "7802",
+                    "Description": "STATUS POST RIGHT THUMB LACERATION WITH RESIDUALS",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "01/05/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5260-5261",
+                    "Description": "LEFT KNEE INJURY RESIDUALS",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL HEARING LOSS"
+                },
+                {
+                    "Code": "6201",
+                    "Description": "RESIDUALS OF EAR INFECTION"
+                },
+                {
+                    "Code": "6599-6511",
+                    "Description": "SINUSITIS"
+                },
+                {
+                    "Code": "7820",
+                    "Description": "LEFT LEG INSECT BITE RESIDUALS",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8100",
+                    "Description": "HEADACHES"
+                },
+                {
+                    "Code": "8850-5025",
+                    "Description": "FIBROMYALGIA"
+                },
+                {
+                    "Code": "8866-6602",
+                    "Description": "UPPER RESPIRATORY CONDITION/TROUBLE BREATHING"
+                },
+                {
+                    "Code": "8885-8515",
+                    "Description": "PERIPHERAL NEUROPATHY, RIGHT HAND AND ARM",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "9411",
+                    "Description": "POST TRAUMATIC STRESS DISORDER"
+                },
+                {
+                    "Code": "9499-9435",
+                    "Description": "SLEEP DISORDER"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "other specified trauma and stressor related disorder,",
+                "DecisionEvalution": "10",
+                "EffDate": "January 5, 2022"
+            },
+            {
+                "DecisionName": "status post right thumb laceration with residuals",
+                "DecisionEvalution": "0",
+                "EffDate": "January 5, 2022"
+            },
+            {
+                "DecisionName": "left shoulder condition"
+            },
+            {
+                "DecisionName": "neck condition secondary back condition"
+            },
+            {
+                "DecisionName": "right knee condition"
+            },
+            {
+                "DecisionName": "right leg radiculopathy secondary to back"
+            },
+            {
+                "DecisionName": "left leg radiculopathy secondary to back"
+            },
+            {
+                "DecisionName": "rhinitis"
+            },
+            {
+                "DecisionName": "low back strain"
+            },
+            {
+                "DecisionName": "right shoulder cyst removal residuals"
+            }
+        ]
+    }
+}

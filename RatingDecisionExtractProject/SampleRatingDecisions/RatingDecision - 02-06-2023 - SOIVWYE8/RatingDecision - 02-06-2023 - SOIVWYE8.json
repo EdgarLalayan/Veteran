@@ -1,0 +1,322 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "SOIVWYE8",
+        "HEADER_DATE": "2/03/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "01/10/1983",
+                    "RAD_Date": "06/30/2004",
+                    "Branch_Service": "Marine Corps",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "6847",
+                    "Description": "SLEEP APNEA",
+                    "PercentageDate": [
+                        {
+                            "percent": "50",
+                            "date": "02/20/2009"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5201",
+                    "Description": "DEGENERATIVE JOINT DISEASE, RIGHT SHOULDER (NOW CLAIMED AS RIGHT ROTATOR CUFF AND ARM CONDITION)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "02/20/2009"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "08/08/2016"
+                        },
+                        {
+                            "percent": "30",
+                            "date": "09/22/2020"
+                        },
+                        {
+                            "percent": "30",
+                            "date": "02/07/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5213",
+                    "Description": "RIGHT ELBOW DEGENERATIVE ARTHRITIS ARTHRITIS WITH TENDINITIS WITH IMPAIRMENT OF SUPINATION AND PRONATION",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "7319",
+                    "Description": "IRRITABLE BOWEL SYNDROME",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "04/14/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "9435",
+                    "Description": "MOOD DISORDER DUE TO KNOWN PHYSIOLOGICAL CONDITION WITH DEPRESSIVE FEATURES.",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "04/14/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5206",
+                    "Description": "RIGHT ELBOW DEGENERATIVE ARTHRITIS WITH TENDINITIS AND LIMITATION OF FLEXION",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "02/20/2009"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5003-5215",
+                    "Description": "LEFT WRIST DEGENERATIVE ARTHRITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5003-5229",
+                    "Description": "RIGHT HAND (THUMB, INDEX, LONG FINGERS) DEGENERATIVE ARTHRITIS, OTHER THAN POST TRAUMATIC",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5215-5003",
+                    "Description": "RIGHT WRIST DEGENERATIVE ARTHRITIS, OTHER THAN POST-TRAUMATIC",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "7101",
+                    "Description": "HYPERTENSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "09/22/2020"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5003-5230",
+                    "Description": "RIGHT RING FINGER DEGENERATIVE ARTHRITIS 4TH DIP JOINTS",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5003-5230",
+                    "Description": "RIGHT LITTLE FINGER DEGENERATIVE ARTHRITIS S/P 5TH METACARPAL FRACTURE",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5207",
+                    "Description": "RIGHT ELBOW DEGENERATIVE ARTHRITIS WITH TENDINITIS AND LIMITATION OF EXTENSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "04/14/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "7522",
+                    "Description": "ERECTILE DYSFUNCTION ASSOCIATED WITH HYPERTENSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "04/14/2022"
+                        }
+                    ]
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5003-5271",
+                    "Description": "DEGENERATIVE JOINT DISEASE LEFT ANKLE",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5237",
+                    "Description": "DEGENERATIVE JOINT DISEASE, CERVICAL SPINE, DORSAL KYPHOSIS, THORACIC SPINE AND DEGENERATIVE JOINT DISEASE, SACROILIAC JOINTS (NOW CLAIMED AS SACROILITIS, ANKYLOSING SPONDYLITIS, AND NECK CONDITION)"
+                },
+                {
+                    "Code": "5252",
+                    "Description": "BILATERAL HIP STRAIN (CLAIMED AS ARTHRITIS, BILATERAL HIPS)"
+                },
+                {
+                    "Code": "5260",
+                    "Description": "DEGENERATIVE JOINT DISEASE, RIGHT AND LEFT KNEE",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5271",
+                    "Description": "ANKYLOSING SPONDYLITIS IN THE RIGHT ANKLE",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL HEARING LOSS"
+                },
+                {
+                    "Code": "6399-7806",
+                    "Description": "ANAPHYLAXIS, CLAIMED AS ANAPHYLACTIC SHOCK, TREATMENTS FOR BEE STINGS"
+                },
+                {
+                    "Code": "7720",
+                    "Description": "ANEMIA"
+                },
+                {
+                    "Code": "8100",
+                    "Description": "MIGRAINE HEADACHES"
+                }
+            ]
+        },
+        "Deferred Issues": [
+            {
+                "Code": "6512",
+                "Description": "SINUSITIS"
+            },
+            {
+                "Code": "6522",
+                "Description": "RHINITIS"
+            },
+            {
+                "Code": "7535",
+                "Description": "KIDNEY DYSFUNCTION"
+            }
+        ],
+        "Decision": [
+            {
+                "DecisionName": "Mood disorder due to known physiological condition with depressive features.",
+                "DecisionEvalution": "30",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "irritable bowel syndrome",
+                "DecisionEvalution": "30",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right elbow degenerative arthritis with tendinitis with impairment of supination and pronation",
+                "DecisionEvalution": "30",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right elbow degenerative arthritis with tendinitis and limitation of   flexion",
+                "DecisionEvalution": "20",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "left wrist degenerative arthritis",
+                "DecisionEvalution": "10",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right hand ",
+                "DecisionEvalution": "10",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right wrist degenerative arthritis, other than post-traumatic",
+                "DecisionEvalution": "10",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right elbow degenerative arthritis with tendinitis and limitation of extension",
+                "DecisionEvalution": "0",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right little finger degenerative arthritis s/p 5th metacarpal fracture ",
+                "DecisionEvalution": "0",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "right ring finger degenerative arthritis 4th DIP joints ",
+                "DecisionEvalution": "0",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "erectile dysfunction",
+                "DecisionEvalution": "0",
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "EffDate": "April 14, 2022"
+            },
+            {
+                "DecisionName": "sinusitis"
+            },
+            {
+                "DecisionName": "rhinitis"
+            },
+            {
+                "DecisionName": "kidney dysfunction"
+            }
+        ]
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "4HPGK2FV",
+        "HEADER_DATE": "04/10/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "11/18/1987",
+                    "RAD_Date": "11/30/2007",
+                    "Branch_Service": "Air Force",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "9440",
+                    "Description": "ADJUSTMENT DISORDER WITH DEPRESSED MOOD",
+                    "PercentageDate": [
+                        {
+                            "percent": "50",
+                            "date": "01/14/2020"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5276",
+                    "Description": "BILATERAL PLANTAR FASCIITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "11/03/2020"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5201",
+                    "Description": "LEFT SHOULDER TENDINITIS (PREVIOUSLY RATED UNDER DIAGNOSTIC CODE 5201 AND 5201-5019)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "06/26/2015"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "03/03/2017"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "03/19/2019"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6035-6066",
+                    "Description": "KERATOCONUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "12/01/2007"
+                        },
+                        {
+                            "percent": "0",
+                            "date": "11/01/2017"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "01/25/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5206",
+                    "Description": "RIGHT LATERAL EPICONDYLITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "07/22/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5024-5201",
+                    "Description": "LEFT SHOULDER TENDINITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/01/2007",
+                            "End_Date": "06/26/2015"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "12/29/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "7899-7806",
+                    "Description": "HERPES SIMPLEX TYPE II WITH ACNEFORM DERMATITIS, KERATOSIS PILARIS, AND FOLLICULITIS BARBAE (PREVIOUSLY EVALUATED SEPARATELY)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/01/2007"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7399-7346",
+                    "Description": "GASTROESOPHAGEAL REFLUX DISEASE WITH IRRITABLE BOWEL SYNDROME (IBS)",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/01/2007"
+                        },
+                        {
+                            "percent": "10",
+                            "date": "07/21/2016"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "08/03/2020"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6522",
+                    "Description": "ALLERGIC RHINITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "01/20/2023"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7101",
+                    "Description": "HYPERTENSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/01/2007"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7522",
+                    "Description": "ERECTILE DYSFUNCTION ASSOCIATED WITH HYPERTENSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "07/22/2022"
+                        }
+                    ]
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5201",
+                    "Description": "RIGHT SHOULDER STRAIN",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5206",
+                    "Description": "LEFT ELBOW CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5237",
+                    "Description": "NECK/UPPER BACK (CERVICAL SPINE)"
+                },
+                {
+                    "Code": "5276",
+                    "Description": "BILATERAL PES PLANUS"
+                },
+                {
+                    "Code": "5299-5206",
+                    "Description": "LEFT ELBOW CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6313",
+                    "Description": "VITAMIN D DEFICIENCY"
+                },
+                {
+                    "Code": "6512",
+                    "Description": "SINUSITIS (PARTICULATE EXPOSURE)"
+                },
+                {
+                    "Code": "6847",
+                    "Description": "SLEEP APNEA SYNDROMES"
+                },
+                {
+                    "Code": "7599-7502",
+                    "Description": "KIDNEY DYSFUNCTION (SECONDARY TO HTN)"
+                },
+                {
+                    "Code": "7800",
+                    "Description": "SURGICAL SCAR ON NECK"
+                },
+                {
+                    "Code": "7806",
+                    "Description": "ECZEMA"
+                },
+                {
+                    "Code": "7820",
+                    "Description": "PITYRIASIS ROSEA"
+                },
+                {
+                    "Code": "7825",
+                    "Description": "URTICARIA"
+                },
+                {
+                    "Code": "7903",
+                    "Description": "HYPOTHYROIDISM STATUS POST PARTIAL THYROIDECTOMY FOR TREATMENT OF HYPERTHYROIDISM (GRAVE'S DISEASE)"
+                },
+                {
+                    "Code": "8100",
+                    "Description": "HEADACHES"
+                },
+                {
+                    "Code": "8515",
+                    "Description": "RIGHT CARPAL TUNNEL SYNDROME",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8515",
+                    "Description": "LEFT CARPAL TUNNEL SYNDROME",
+                    "Left_or_Right_KW": "LEFT"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "right lateral epicondylitis ",
+                "DecisionEvalution": "20",
+                "EffDate": "July 22, 2022"
+            },
+            {
+                "DecisionName": "erectile dysfunction",
+                "DecisionEvalution": "0",
+                "EffDate": "July 22, 2022"
+            },
+            {
+                "EffDate": "July 22, 2022"
+            },
+            {
+                "DecisionName": "left elbow condition"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "UVN6JWA5",
+        "HEADER_DATE": "",
+        "Service Information": {
+            "Service Dates": "None"
+        },
+        "Compensation Information": {
+            "Compensation": "None",
+            "No Compensation": []
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "left hip trochanteric pain syndrome and femoral acetabular impingement syndrome ",
+                "DecisionEvalution": "40",
+                "EffDate": "March 21, 2020"
+            },
+            {
+                "EffDate": "June 30, 2021"
+            }
+        ]
+    }
+}

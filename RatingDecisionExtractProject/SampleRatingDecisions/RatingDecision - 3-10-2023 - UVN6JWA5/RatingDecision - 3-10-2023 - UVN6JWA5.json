@@ -1,0 +1,344 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "UVN6JWA5",
+        "HEADER_DATE": "03/08/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "07/27/1998",
+                    "RAD_Date": "12/01/2011",
+                    "Branch_Service": "Marine Corps",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "5269-5276",
+                    "Description": "BILATERAL PES PLANUS WITH PLANTAR FASCIITIS",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/02/2011"
+                        },
+                        {
+                            "percent": "30",
+                            "date": "04/20/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5201",
+                    "Description": "ROTATOR CUFF STRAIN, RIGHT SHOULDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/02/2011"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5242",
+                    "Description": "DEGENERATIVE ARTHRITIS, LUMBAR SPINE",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/02/2011"
+                        },
+                        {
+                            "percent": "20",
+                            "date": "04/20/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "8520",
+                    "Description": "LEFT LEG RADICULOPATHY",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "8520",
+                    "Description": "RIGHT LEG RADICULOPATHY",
+                    "PercentageDate": [
+                        {
+                            "percent": "20",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5201-5024",
+                    "Description": "ROTATOR CUFF STRAIN, LEFT SHOULDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/02/2011"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5215-5024",
+                    "Description": "STRAIN, RIGHT WRIST",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/02/2011"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5215",
+                    "Description": "LEFT WRIST SPRAIN (CLAIMED AS LEFT WRIST CONDITION)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5252",
+                    "Description": "STRAIN, LEFT HIP, LIMITATION OF FLEXION",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/02/2011"
+                        },
+                        {
+                            "percent": "10",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5260",
+                    "Description": "PATELLOFEMORAL SYNDROME, RIGHT KNEE",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/02/2011"
+                        },
+                        {
+                            "percent": "10",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5260",
+                    "Description": "PATELLOFEMORAL SYNDROME, LEFT KNEE",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "12/02/2011"
+                        },
+                        {
+                            "percent": "10",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "04/20/2022"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5229",
+                    "Description": "RIGHT HAND STRAIN (CLAIMED AS RIGHT HAND CONDITION)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "09/28/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5229",
+                    "Description": "LEFT HAND STRAIN (CLAIMED AS LEFT HAND CONDITION)",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "09/28/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5251",
+                    "Description": "STRAIN, LEFT HIP, LIMITATION OF EXTENSION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5253",
+                    "Description": "STRAIN, LEFT HIP, LIMITATION OF ABDUCTION",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "04/20/2022"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5237",
+                    "Description": "NECK CONDITION"
+                },
+                {
+                    "Code": "5252",
+                    "Description": "RIGHT HIP CONDITION",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "6099-6066",
+                    "Description": "BILATERAL HYPEROPIC ASTIGMATISM (CLAIMED VISION LOSS)"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL SENSORINEURAL HEARING LOSS"
+                },
+                {
+                    "Code": "6502",
+                    "Description": "DEVIATED SEPTUM"
+                },
+                {
+                    "Code": "6511",
+                    "Description": "SINUSITIS"
+                },
+                {
+                    "Code": "7319",
+                    "Description": "IBS"
+                },
+                {
+                    "Code": "7805",
+                    "Description": "SCAR OF HEAD, FACE, OR NECK"
+                },
+                {
+                    "Code": "8510",
+                    "Description": "RIGHT ARM RADICULOPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "8510",
+                    "Description": "LEFT ARM RADICULOPATHY",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "9999-9902",
+                    "Description": "DENTAL IMPLANTS AND CROWNS, S/P MOUTH INJURY"
+                }
+            ]
+        },
+        "Deferred Issues": [
+            {
+                "Code": "6204",
+                "Description": "VERTIGO"
+            },
+            {
+                "Code": "6522",
+                "Description": "RHINITIS"
+            },
+            {
+                "Code": "8045",
+                "Description": "TBI"
+            },
+            {
+                "Code": "8100",
+                "Description": "HEADACHES"
+            },
+            {
+                "Code": "9434",
+                "Description": "DEPRESSION"
+            }
+        ],
+        "Decision": [
+            {
+                "DecisionEvalution": "30",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionEvalution": "20",
+                "EffDate": "April   20, 2022"
+            },
+            {
+                "DecisionName": "left leg radiculopathy",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionName": "right leg radiculopathy",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionEvalution": "20",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionEvalution": "10",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionEvalution": "10",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionName": "left wrist sprain ",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionName": "tinnitus",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionName": "strain, left hip, limitation of abduction",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionName": "strain, left hip, limitation of extension",
+                "EffDate": "April 20, 2022"
+            },
+            {
+                "DecisionName": "strain, left hip, limitation of flexion,",
+                "DecisionEvalution": "10"
+            },
+            {},
+            {}
+        ]
+    }
+}

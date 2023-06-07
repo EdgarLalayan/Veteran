@@ -1,0 +1,137 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "MLIETL9E",
+        "HEADER_DATE": "12/05/2022",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "11/23/2005",
+                    "RAD_Date": "01/12/2009",
+                    "Branch_Service": "Army",
+                    "Discharge_Type": "Honorable"
+                },
+                {
+                    "EOD_Date": "11/18/2009",
+                    "RAD_Date": "12/26/2010",
+                    "Branch_Service": "Army",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "9411",
+                    "Description": "POSTTRAUMATIC STRESS DISORDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "50",
+                            "date": "07/23/2019"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "12/27/2010"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7599-7522",
+                    "Description": "ERECTILE DYSFUNCTION ASSOCIATED WITH POSTTRAUMATIC STRESS DISORDER",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "02/11/2021"
+                        }
+                    ]
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5201",
+                    "Description": "RIGHT SHOULDER CONDITION",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5201",
+                    "Description": "LEFT SHOULDER CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5237",
+                    "Description": "NECK CONDITION"
+                },
+                {
+                    "Code": "5271",
+                    "Description": "RIGHT ANKLE CONDITION",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5271",
+                    "Description": "LEFT ANKLE CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5299-5237",
+                    "Description": "LOW BACK CONDITION"
+                },
+                {
+                    "Code": "6099-6009",
+                    "Description": "A CHRONIC CONDITION TO ACCOUNT FOR PHOTOPHOBIA"
+                },
+                {
+                    "Code": "6099-6011",
+                    "Description": "BILATERAL EYE CONDITION"
+                },
+                {
+                    "Code": "6100",
+                    "Description": "HEARING LOSS"
+                },
+                {
+                    "Code": "6299-6204",
+                    "Description": "A CHRONIC CONDITION TO ACCOUNT FOR DIZZINESS"
+                },
+                {
+                    "Code": "6513",
+                    "Description": "SINUSITIS"
+                },
+                {
+                    "Code": "6522",
+                    "Description": "ALLERGIC RHINITIS"
+                },
+                {
+                    "Code": "8045",
+                    "Description": "RESIDUALS OF A TRAUMATIC BRAIN INJURY"
+                },
+                {
+                    "Code": "8099-8045",
+                    "Description": "A CHRONIC CONDITION TO ACCOUNT FOR SHORT-TERM MEMORY LOSS"
+                },
+                {
+                    "Code": "8199-8100",
+                    "Description": "HEADACHES"
+                },
+                {
+                    "Code": "8511",
+                    "Description": "RIGHT ARM NEUROPATHY",
+                    "Left_or_Right_KW": "RIGHT"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "right arm neuropathy"
+            }
+        ]
+    }
+}

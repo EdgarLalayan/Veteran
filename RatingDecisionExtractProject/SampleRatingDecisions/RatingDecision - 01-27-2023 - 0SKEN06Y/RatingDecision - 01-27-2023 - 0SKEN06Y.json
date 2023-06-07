@@ -1,0 +1,134 @@
+{
+    "Veteran": {
+        "Name": "None",
+        "VA File Number": "None",
+        "Social Security Number": "None",
+        "POA": "None",
+        "CLIENT_CASPIO_FK": "0SKEN06Y",
+        "HEADER_DATE": "01/26/2023",
+        "Service Information": {
+            "Service Dates": [
+                {
+                    "EOD_Date": "12/27/1978",
+                    "RAD_Date": "12/31/1998",
+                    "Branch_Service": "Navy",
+                    "Discharge_Type": "Honorable"
+                }
+            ]
+        },
+        "Compensation Information": {
+            "Compensation": [
+                {
+                    "Code": "6006-6065",
+                    "Description": "RIGHT EYE SCOTOMA AND CENTRAL SEROUS RETINOPATHY",
+                    "PercentageDate": [
+                        {
+                            "percent": "30",
+                            "date": "10/29/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5237",
+                    "Description": "LUMBAR SPINE COMPRESSION FRACTURE T12",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "10/29/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "5260",
+                    "Description": "LEFT KNEE ARTHROSCOPY WITH PARTIAL MEDIAL MENISCECTOMY WITH RESIDUAL PAIN AND DECREASED ROM",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "10/29/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "6260",
+                    "Description": "TINNITUS",
+                    "PercentageDate": [
+                        {
+                            "percent": "10",
+                            "date": "10/29/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "6100",
+                    "Description": "BILATERAL HEARING LOSS",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "10/29/2021"
+                        }
+                    ]
+                },
+                {
+                    "Code": "7802",
+                    "Description": "RESIDUAL SCAR FOLLOWING LEFT KNEE ARTHROSCOPY ASSOCIATED WITH LEFT KNEE ARTHROSCOPY WITH PARTIAL MEDIAL MENISCECTOMY WITH RESIDUAL PAIN AND DECREASED ROM",
+                    "PercentageDate": [
+                        {
+                            "percent": "0",
+                            "date": "10/29/2021"
+                        }
+                    ],
+                    "Left_or_Right_KW": "LEFT"
+                }
+            ],
+            "No Compensation": [
+                {
+                    "Code": "5201",
+                    "Description": "LEFT SHOULDER IMPINGEMENT SYNDROME",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5201",
+                    "Description": "RIGHT SHOULDER IMPINGEMENT SYNDROME",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5215",
+                    "Description": "RIGHT WRIST CONDITION",
+                    "Left_or_Right_KW": "RIGHT"
+                },
+                {
+                    "Code": "5215",
+                    "Description": "LEFT WRIST CONDITION",
+                    "Left_or_Right_KW": "LEFT"
+                },
+                {
+                    "Code": "5237",
+                    "Description": "CERVICAL STRAIN"
+                },
+                {
+                    "Code": "6522",
+                    "Description": "RHINITIS"
+                },
+                {
+                    "Code": "6847",
+                    "Description": "SLEEP APNEA"
+                },
+                {
+                    "Code": "9435",
+                    "Description": "DEPRESSION"
+                }
+            ]
+        },
+        "Deferred Issues": [],
+        "Decision": [
+            {
+                "DecisionName": "rhinitis"
+            },
+            {
+                "DecisionName": "sleep apnea"
+            }
+        ]
+    }
+}
